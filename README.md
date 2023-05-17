@@ -7,7 +7,7 @@
   • Benefit the lending institutions and customer. 
   • make people more aware of the potential defaulting rate.
   
-## Project
+## Goal
 The goal of this project:  
 • Building and comparing predictive risk models using advanced classifiers like ensemble methods to resolve problem.  
 • Use Logistic Regression as benchmark algorithm and attempt to build a better classifier.
